@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "938926614808",
+    "firebase_url": "https://meme-o-mania-48d69.firebaseio.com",
+    "project_id": "meme-o-mania-48d69",
+    "storage_bucket": "meme-o-mania-48d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938926614808:android:0419d50e201a882e87566d",
+        "android_client_info": {
+          "package_name": "com.adgvit.meme_o_mania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938926614808-piknr3q9dgaoct7ifdb0nb14omfvssbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adgvit.meme_o_mania",
+            "certificate_hash": "a801e7675ec760a63f38df4367ef330998058a62"
+          }
+        },
+        {
+          "client_id": "938926614808-ejr256k7ej6rvdie627gs6o7uqr7i00g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adgvit.meme_o_mania",
+            "certificate_hash": "58d6549d64dd9255f52f9c9762952f985d7f7d53"
+          }
+        },
+        {
+          "client_id": "938926614808-0fojq39smek82pmio8chd4qr5h3rvg0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adgvit.meme_o_mania",
+            "certificate_hash": "4a1012dbea99535124a58040dbbd19a2a0a37d3e"
+          }
+        },
+        {
+          "client_id": "938926614808-2i2v85bugd4appu6mfkqi5pc75uhtk0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASS7jK0twv_CCVJwNIyrs3JY7HWTY0URU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938926614808-2i2v85bugd4appu6mfkqi5pc75uhtk0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938926614808-u50p3g0l3asc2n3r58ntrjv46f21hjui.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adgvit.Meme-O-Mania"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

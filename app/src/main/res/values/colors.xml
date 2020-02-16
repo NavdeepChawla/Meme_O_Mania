@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorButton">#FF5000</color>
+    <color name="colorButtonText">#FFFFFF</color>
+
+    <color name="colorTextViewBlack">#000000</color>
+    <color name="colorTextViewGray">#6D7278</color>
+    <color name="colorTextViewOrange">#FF5000</color>
+
+    <color name="colorEditText">#F6F6F6</color>
+    <color name="colorEditTextText">#000000</color>
+    <color name="colorEditTextHint">#6D7278</color>
+
+    <color name="bottomBarIcon">#000000</color>
+    <color name="bottomBarIconSelected">#FF5000</color>
+
+
+    //AKSHIT
+    <color name="colorBlack">#000000</color>
+    <color name="colorOrange">#FF5000</color>
+    <color name="colorGrey">#6D7278</color>
+    <color name="colorWhite">#F6F6F6</color>
+    <color name="cardBackground">#F6F6F6</color>
+    <color name="optionText">#787878</color>
+    <color name="colorGreen">#6DD400</color>
+
+    <color name="buttonColor2">#BEBBC6</color>
+    <color name="alertBackground">#8BC540</color>
+
+</resources>

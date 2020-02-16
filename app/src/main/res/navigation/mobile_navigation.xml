@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_timeline">
+
+    <fragment
+        android:id="@+id/navigation_timeline"
+        android:name="com.adgvit.meme_o_mania.fragments.TimelineFragment"
+        android:label="@string/timelineNavigationTitle"
+        tools:layout="@layout/fragment_timeline" />
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="com.adgvit.meme_o_mania.fragments.QuizFragment"
+        android:label="@string/quizNavigationTitle"
+        tools:layout="@layout/fragment_quiz" />
+
+    <fragment
+        android:id="@+id/navigation_meme"
+        android:name="com.adgvit.meme_o_mania.fragments.MemeFragment"
+        android:label="@string/memeNavigationTitle"
+        tools:layout="@layout/fragment_meme" />
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.adgvit.meme_o_mania.fragments.AboutFragment"
+        android:label="@string/aboutNavigationTitle"
+        tools:layout="@layout/fragment_about" />
+
+</navigation>

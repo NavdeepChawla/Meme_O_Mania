@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Meme-O-Mania</string>
+
+    <!--Log In Activity-->
+    <string name="loginLoginTextView">Log In to your account</string>
+    <string name="emailLoginEditText">Email</string>
+    <string name="passwordLoginEditText">Password</string>
+    <string name="forgotLoginTextView">Forgot Your Password?</string>
+    <string name="loginLoginButton">Log In</string>
+    <string name="signupLoginTextView1">Don\'t have an Account?</string>
+    <string name="signupLoginTextView2"> Sign Up</string>
+
+    <!--Sign Up Activity-->
+    <string name="signupSignUpTextView">Sign Up for your Account</string>
+    <string name="nameSignUpEditText">Name</string>
+    <string name="regnoSignUpEditText">Registration Number</string>
+    <string name="emailSignUpEditText">Email</string>
+    <string name="passwordSignUpEditText">Password</string>
+    <string name="signupSignUpButton">Sign Up</string>
+    <string name="loginSignUpTextView1">Already have an Account?</string>
+    <string name="loginSignUpTextView2"> Log In</string>
+
+    <!--Forgot Password Activity-->
+    <string name="forgotForgotTextView">Please enter Email Id to reset password</string>
+    <string name="emailForgotEditText">Email</string>
+    <string name="resetForgotButton">Reset Password</string>
+
+    <!--Bottom Navigation Bar-->
+    <string name="timelineNavigationTitle">Timeline</string>
+    <string name="quizNavigationTitle">Quiz</string>
+    <string name="memeNavigationTitle">Meme Upload</string>
+    <string name="aboutNavigationTitle">About Us</string>
+
+    <!--Navigation Activity-->
+    <string name="timelineHeading">TIMELINE</string>
+    <string name="quizHeading">QUIZ</string>
+    <string name="upload">UPLOAD</string>
+    <string name="aboutHeading">INFORMATION</string>
+
+    <!--Navigation Quiz Fragment-->
+    <string name="rulesQuizTextView">Rules:</string>
+    <string name="pointQuizTextView">Points \n1.hi wasssup\n2.Heyyy</string>
+    <string name="startQuizButton">Start Quiz</string>
+    <string name="noReQuiz">Not Allowed\nQuiz already attempted</string>
+
+    <!--Navigation Meme Fragment-->
+    <string name="rulesMemeTextView">Rules:</string>
+    <string name="pointMemeTextView">Points \n1.hi wasssup\n2.Heyyy</string>
+    <string name="selectMemeButton">Select Image</string>
+    <string name="time">30</string>
+    <string name="unit">s</string>
+    <string name="quizRules">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
+    <string name="rulesSample">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</string>
+
+    <!--About Us-->
+    <string name="AboutUs">ABOUT US</string>
+    <string name="todo">TODO</string>
+    <string name="ADG">Apple Developers Group</string>
+    <string name="VV">VIT VELLORE</string>
+    <string name="audesc">Apple Developers Group (ADG) is a name synonymous with excellence, simplicity and dedication. It is a registered student community at VIT, Vellore established under the Apple University program. A coterie of talented minds seeking not just success but perfection. The mentors and the members here, join hands in successfully pulling off a hack-a-thon such as Hackgrid and engaging workshops like iOS Fusion and Unidev. Hackgrid encourages young developers to come up with scintillating technical solutions to real world problems. iOS Fusion aims at giving a hands on experience of iOS app development to all the tech enthusiasts whereas Unidev takes future developers into realm of augmented reality</string>
+    <string name="OurApps">Our Apps</string>
+    <string name="OurEvents">Our Events</string>
+    <string name="Iosf">Ios Fusion</string>
+    <string name="unidev">Unidev</string>
+    <string name="hackgrid">Hackgrid</string>
+    <string name="name">NAME</string>
+    <string name="email">Email</string>
+    <string name="regNo">Reg. No.</string>
+    <string name="logout">Logout</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="contactInfo">Email ID \nappledevelopersgroup@gmail.com\n\nSarvesh Bhibhuti\n+91-9099946404</string>
+    <string name="call">Call Us Now</string>
+    <string name="back">Go Back</string>
+
+    <!--Meme Upload-->
+    <string name="uploadRulesButton">Upload Meme</string>
+    <string name="uploadMeme">Upload your memes</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="done">Done</string>
+    <string name="ok">Okay</string>
+    <string name="noQuiz">Not Allowed\nAttempt quiz first</string>
+    <string name="success">Your meme has been successfully uploaded!</string>
+    <string name="uploadRules">Memes Uploading Rules:\n1. Defaming VIT, profanity, instigating people will not be allowed. If found you will be disqualified.\n2. Memes using provided templates will only be allowed.</string>
+
+    <!--Confirm Sign Up-->
+    <string name="confirm">Congratulations!\nYour account is verified.</string>
+
+
+    <string name="aquizHeading">QUIZ</string>
+    <string name="atime">30</string>
+    <string name="aunit">s</string>
+    <string name="aquestion">This meme started out as:</string>
+    <string name="aquestionNo">QUESTION 1.</string>
+    <string name="option1">A Snap</string>
+    <string name="option2">Skype Call</string>
+    <string name="option3">A Youtube Video</string>
+    <string name="option4">Twitter Post</string>
+    <string name="arules">Rules</string>
+    <string name="rulesQuiz">Quiz Rules:\n1. Only single attempt allowed.\n2. Clear the preset cutoff to qualify to the next round.\n3. No means of cheating will be allowed during the quiz or while performing the tasks.\n4. Do not close the app/screen once the quiz has begun, if done so quiz will automatically be submitted.\n\n\n</string>
+
+
+</resources>
